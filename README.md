@@ -4,8 +4,8 @@ An informatics student at Institut Teknologi Sepuluh Nopember.
 
 ### Github Stats:
 
-[![Doanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doanda37Rahma&show_icons=true&theme=gotham&count_private=true&hide=contribs)](https://github.com/doandadr)
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Doanda37Rahma&layout=compact&theme=gotham)](https://github.com/doandadr)
+[![Doanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=doandadr&show_icons=true&theme=gotham&count_private=true&hide=contribs)](https://github.com/doandadr)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=doandadr&layout=compact&theme=gotham)](https://github.com/doandadr)
 
 ### Find me in:
 
