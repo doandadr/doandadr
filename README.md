@@ -2,13 +2,13 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/doanda-dresta/)](https://www.linkedin.com/in/doanda-dresta/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?logo=telegram&logoColor=white&link=https://t.me/doandadr)](https://t.me/doandadr)
-<!-- 
-[![Doanda Badge](https://img.shields.io/badge/-riyaldi.vercel.app-202020?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEVHcEw0izcygzU2jzcziDcxfjQ4kDo4jjwr0gBVAAAAB3RSTlMAxlYlR3WQZfj3JAAAALZJREFUSMft1T0KhDAQBeBZxE1rt20IewDBwlYWD+AR7GwHFOb66w+KyybzkGjnVCk+Es28IUR3HatirTwAXrIVIyA9At49foBAwAgIBBwNxA/stILgMYMqDMj/ETtgrgTNSUAASJR7mEGn3CTsxYFutrGJ4thU5wAwnKwgsPREgPTZHEGJgFF/065paBBgBRitFxNIESAtD3YL9YCANt3LGVn0dP+dUX+cey9BScalq+/n6+T6Aph96pMyHUmkAAAAAElFTkSuQmCC&link=https://doanda.com)](https://doanda.vercel.app) 
--->
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:doanda.dev@gmail.com)](mailto:doanda.dev@gmail.com) 
 [![Hackerrank Badge](https://img.shields.io/badge/-Hackerrank-green?logo=Hackerrank&logoColor=white&link=https://hackerrank.com/ddoanda)](https://hackerrank.com/ddoanda)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/doandadresta/)](https://instagram.com/doandadresta)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=doandadr.doandadr)
+<!-- 
+[![Doanda Badge](https://img.shields.io/badge/-riyaldi.vercel.app-202020?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEVHcEw0izcygzU2jzcziDcxfjQ4kDo4jjwr0gBVAAAAB3RSTlMAxlYlR3WQZfj3JAAAALZJREFUSMft1T0KhDAQBeBZxE1rt20IewDBwlYWD+AR7GwHFOb66w+KyybzkGjnVCk+Es28IUR3HatirTwAXrIVIyA9At49foBAwAgIBBwNxA/stILgMYMqDMj/ETtgrgTNSUAASJR7mEGn3CTsxYFutrGJ4thU5wAwnKwgsPREgPTZHEGJgFF/065paBBgBRitFxNIESAtD3YL9YCANt3LGVn0dP+dUX+cey9BScalq+/n6+T6Aph96pMyHUmkAAAAAElFTkSuQmCC&link=https://doanda.com)](https://doanda.vercel.app) 
+-->
 
 An Android Developer currently studying at Institut Teknologi Sepuluh Nopember.
 
