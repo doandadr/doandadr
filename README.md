@@ -10,14 +10,13 @@
 [![Doanda Badge](https://img.shields.io/badge/-riyaldi.vercel.app-202020?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEVHcEw0izcygzU2jzcziDcxfjQ4kDo4jjwr0gBVAAAAB3RSTlMAxlYlR3WQZfj3JAAAALZJREFUSMft1T0KhDAQBeBZxE1rt20IewDBwlYWD+AR7GwHFOb66w+KyybzkGjnVCk+Es28IUR3HatirTwAXrIVIyA9At49foBAwAgIBBwNxA/stILgMYMqDMj/ETtgrgTNSUAASJR7mEGn3CTsxYFutrGJ4thU5wAwnKwgsPREgPTZHEGJgFF/065paBBgBRitFxNIESAtD3YL9YCANt3LGVn0dP+dUX+cey9BScalq+/n6+T6Aph96pMyHUmkAAAAAElFTkSuQmCC&link=https://doanda.com)](https://doanda.vercel.app) 
 -->
 
-An Android Developer currently studying at Institut Teknologi Sepuluh Nopember.
+A Mobile Developer and graduate of Institut Teknologi Sepuluh Nopember.
 
 ### Talking about Personal Stuff:
 
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Mobile Development
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: [E-Mail](mailto:ddoanda@gmail.com) | [Telegram](https://t.me/doandadr)
-<!-- - 💻 More about me in [riyaldi.vercel.app](https://riyaldi.vercel.app/) -->
+- 📫 How to reach me: [E-Mail](mailto:doanda.dev@gmail.com) | [LinkedIn](https://www.linkedin.com/in/doanda-dresta/)
 
 &nbsp;
 
