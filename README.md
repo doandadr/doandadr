@@ -25,7 +25,7 @@ An Android Developer currently studying at Institut Teknologi Sepuluh Nopember.
   <tr>
     <td align="left">
       <a href="https://github.com/doandadr">
-        <img align="left" src="https://github-readme-stats.vercel.app/api?username=doandadr&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api?username=doandadr&show_icons=true&theme=react&border_color=61dafb&hide_border=true&hide_rank=true" />
       </a>
     </td>
     <td align="right">
