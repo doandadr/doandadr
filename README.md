@@ -10,7 +10,7 @@
 [![Doanda Badge](https://img.shields.io/badge/-riyaldi.vercel.app-202020?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABABAMAAABYR2ztAAAAGFBMVEVHcEw0izcygzU2jzcziDcxfjQ4kDo4jjwr0gBVAAAAB3RSTlMAxlYlR3WQZfj3JAAAALZJREFUSMft1T0KhDAQBeBZxE1rt20IewDBwlYWD+AR7GwHFOb66w+KyybzkGjnVCk+Es28IUR3HatirTwAXrIVIyA9At49foBAwAgIBBwNxA/stILgMYMqDMj/ETtgrgTNSUAASJR7mEGn3CTsxYFutrGJ4thU5wAwnKwgsPREgPTZHEGJgFF/065paBBgBRitFxNIESAtD3YL9YCANt3LGVn0dP+dUX+cey9BScalq+/n6+T6Aph96pMyHUmkAAAAAElFTkSuQmCC&link=https://doanda.com)](https://doanda.vercel.app) 
 -->
 
-A Mobile Developer and graduate of Institut Teknologi Sepuluh Nopember.
+A Mobile Developer and undergrad student of Institut Teknologi Sepuluh Nopember.
 
 ### Talking about Personal Stuff:
 
